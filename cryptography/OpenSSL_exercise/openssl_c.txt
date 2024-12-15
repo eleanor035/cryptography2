@@ -1,0 +1,158 @@
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl genpkey -algorithm RSA -out rsa_private.pem -aes256
+......+++++++++++++++++++++++++++++++++++++++*................+.+......+...+.....+...+.........+....+...........+....+..+....+.....+...+++++++++++++++++++++++++++++++++++++++*...............+...+..+.......+.....+.........+.+......+........+.......+...+......+........+...+....+.....+.+..+.......+.....+.+........+....+...............+..+...+.+..+...+.......+..+......+....+.....+.+...........+.+..+.+..+......................+.................+.+..+...............+.+............+...+...........+...+............+....+..+...+.........+..........+.....................+.........+........+...+.+......+..............+...+................+.....+.......+.....+....+.....+....+............+...+......+.....+....+......+.........+......+......+.................+.+..+....+...+...+..............+....+..+...+....+......+..+............+................+.........+........+...+.+......+..............+...+................+.....+.......+.....+....+.....+....+............+...+.................+.........+........+...+.+......+..............+...+................+.....+.......+.....+....+.....+....+............+...+.................+.........+........+...+.+......+..............+...+................+.....+.......+.....+....+.....+....+............+...+......+.....+....+......+.........+......+......+.................+.+..+....+...+...+..............+....+..+...+....+......+..+............+......+....+......++++++
+........+.+.....+++++++++++++++++++++++++++++++++++++++*.+...+...+........+..........+++++++++++++++++++++++++++++++++++++++*...+.......+.............+.........+........+...+.+......+..............+...+................+.....+.......+.....+....+.....+....+............+...+......+.....+....+......+.........+......+......+.................+.+..+....+...+...+..............+....+..+...+....+......+..+............+......+....+......++++++
+...........+.........+........+...+.+......+..............+...+................+.....+.......+.....+....+.....+....+............+...+.................+.........+........+...+.+......+..............+...+................+.....+.......+.....+....+.....+....+............+...+......+.....+....+......+.........+......+......+.................+.+..+....+...+...+..............+....+..+...+....+......+..+............+......+....+......++++++
+...........+.........+........+...+.+......+..............+...+................+.....+.......+.....+....+.....+....+............+...+......+.....+....+......+.........+......+......+.................+.+..+....+...+...+..............+....+..+...+....+......+..+............+................+.........+........+...+.+......+..............+...+................+.....+.......+.....+....+.....+....+............+...+......+.....+....+......+.........+......+......+.................+.+..+....+...+...+..............+....+..+...+....+......+..+............+......+....+......++++++
+........+.+.....+++++++++++++++++++++++++++++++++++++++*.+...+...+........+..........+++++++++++++++++++++++++++++++++++++++*...+.......+........+.+.....+....+..+..........+.........+...........+...+.........+...+....+...+..+.+..+.......+.....+................+.....+....+.....+....+..+..........+...+..+....+..................+...+.........+.....+.+..+............+...+............+.+............+...........+........................+...+.......+......+..+...+.+.....+.+.........+.........+.....+.+...+.....+......+....+...+...+...........+.+..............+...+.........................+............+......+..+.+..+....+...........+......................+........+....+..................+.....+.+.....+......+.........+.+.....++++++
+...........+.........+........+...+.+......+..............+...+................+.....+.......+.....+....+.....+....+............+...+......+.....+....+......+.........+......+......+.................+.+..+....+...+...+..............+....+..+...+....+......+..+............+......+....+......++++++
+........+.+.....+++++++++++++++++++++++++++++++++++++++*.+...+...+........+..........+++++++++++++++++++++++++++++++++++++++*...+.......+........+.+.....+....+..+..........+.........+...........+...+.........+...+....+...+..+.+..+.......+.....+................+.....+....+.....+....+..+..........+...+..+....+..................+...+.........+.....+.+..+............+...+............+.+............+...........+........................+...+.......+......+..+...+.+.....+.+.........+.........+.....+.+...+.....+......+....+...+...+...........+.+..............+...+.........................+............+......+..+.+..+....+...........+......................+........+....+..................+.....+.+.....+......+.........+.+.....++++++
+Enter PEM pass phrase:
+...........+.........+........+...+.+......+..............+...+................+.....+.......+.....+....+.....+....+............+...+......+.....+....+......+.........+......+......+.................+.+..+....+...+...+..............+....+..+...+....+......+..+............+......+....+......++++++
+........+.+.....+++++++++++++++++++++++++++++++++++++++*.+...+...+........+..........+++++++++++++++++++++++++++++++++++++++*...+.......+........+.+.....+....+..+..........+.........+...........+...+.........+...+....+...+..+.+..+.......+.....+................+.....+....+.....+....+..+..........+...+..+....+..................+...+.........+.....+.+..+............+...+............+.+............+...........+........................+...+.......+......+..+...+.+.....+.+.........+.........+.....+.+...+.....+......+....+...+...+...........+.+..............+...+.........................+............+......+..+.+..+....+...........+......................+........+....+..................+.....+.+.....+......+.........+.+.....++++++
+Enter PEM pass phrase:
+...........+.........+........+...+.+......+..............+...+................+.....+.......+.....+....+.....+....+............+...+......+.....+....+......+.........+......+......+.................+.+..+....+...+...+..............+....+..+...+....+......+..+............+......+....+......++++++
+........+.+.....+++++++++++++++++++++++++++++++++++++++*.+...+...+........+..........+++++++++++++++++++++++++++++++++++++++*...+.......+........+.+.....+....+..+..........+.........+...........+...+.........+...+....+...+..+.+..+.......+.....+................+.....+....+.....+....+..+..........+...+..+....+..................+...+.........+.....+.+..+............+...+............+.+............+...........+........................+...+.......+......+..+...+.+.....+.+.........+.........+.....+.+...+.....+......+....+...+...+...........+.+...................+.+.....+....+..+..........+.........+...........+...+.........+...+....+...+..+.+..+.......+.....+................+.....+....+.....+....+..+..........+...+..+....+..................+...+.........+.....+.+..+............+...+............+.+............+...........+........................+...+.......+......+..+...+.+.....+.+.........+.........+.....+.+...+.....+......+....+...+...+...........+.+..............................+...+.......+......+..+...+.+.....+.+.........+.........+.....+.+...+.....+......+....+...+...+...........+.+..............+...+.........................+............+......+..+.+..+....+...........+......................+........+....+..................+.....+.+.....+......+.........+.+.....++++++
+Enter PEM pass phrase:
+Verifying - Enter PEM pass phrase:
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>
+
+
+
+
+
+
+
+
+
+.+.....+......+.........+.+.....++++++
+Enter PEM pass phrase:
+Verifying - Enter PEM pass phrase:
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl rsa -pubout -in rsa_private.pem -out rsa_public.pem
+Enter pass phrase for rsa_private.pem:
+writing RSA key
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl ecparam -genkey -name prime256v1 -out ecc_private.pem
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl ec -in ecc_private.pem -pubout -out ecc_public.pem
+read EC key
+writing EC key
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl rsautl -encrypt -pubin -inkey rsa_public.pem -in message.txt -out encrypted_message.bin
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Enter pass phrase for rsa_private.pem:
+writing RSA key
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl ecparam -genkey -name prime256v1 -out ecc_private.pem
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl ec -in ecc_private.pem -pubout -out ecc_public.pem
+read EC key
+writing EC key
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl rsautl -encrypt -pubin -inkey rsa_public.pem -in message.txt -out encrypted_message.bin
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+writing RSA key
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl ecparam -genkey -name prime256v1 -out ecc_private.pem
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl ec -in ecc_private.pem -pubout -out ecc_public.pem
+read EC key
+writing EC key
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl rsautl -encrypt -pubin -inkey rsa_public.pem -in message.txt -out encrypted_message.bin
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl ecparam -genkey -name prime256v1 -out ecc_private.pem
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl ec -in ecc_private.pem -pubout -out ecc_public.pem
+read EC key
+writing EC key
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl rsautl -encrypt -pubin -inkey rsa_public.pem -in message.txt -out encrypted_message.bin
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl ecparam -genkey -name prime256v1 -out ecc_private.pem
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl ec -in ecc_private.pem -pubout -out ecc_public.pem
+read EC key
+writing EC key
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl rsautl -encrypt -pubin -inkey rsa_public.pem -in message.txt -out encrypted_message.bin
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+read EC key
+writing EC key
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl rsautl -encrypt -pubin -inkey rsa_public.pem -in message.txt -out encrypted_message.bin
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Can't open "message.txt" for reading, No such file or directory
+CC8E0000:error:80000002:system library:BIO_new_file:No such file or directory:crypto/bio/bss_file.c:67:calling fopen(message.txt, rb)      
+CC8E0000:error:10000080:BIO routines:BIO_new_file:no such file:crypto/bio/bss_file.c:75:
+
+pted_message.bin
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Can't open "message.txt" for reading, No such file or directory
+CC8E0000:error:80000002:system library:BIO_new_file:No such file or directory:crypto/bio/bss_file.c:67:calling fopen(message.txt, rb)      
+CC8E0000:error:10000080:BIO routines:BIO_new_file:no such file:crypto/bio/bss_file.c:75:
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>echo This is a secret message > message.txt
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl pkeyutl -encrypt -pubin -inkey rsa_public.pem -in message.txt -out encrypted_message.bin
+Can't open "message.txt" for reading, No such file or directory
+CC8E0000:error:80000002:system library:BIO_new_file:No such file or directory:crypto/bio/bss_file.c:67:calling fopen(message.txt, rb)      
+CC8E0000:error:10000080:BIO routines:BIO_new_file:no such file:crypto/bio/bss_file.c:75:
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>echo This is a secret message > message.txt
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl pkeyutl -encrypt -pubin -inkey rsa_public.pem -in message.txt -out encrypted_message.bin
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>echo This is a secret message > message.txt
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl pkeyutl -encrypt -pubin -inkey rsa_public.pem -in message.txt -out encrypted_message.bin
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>echo This is a secret message > message.txt
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl pkeyutl -encrypt -pubin -inkey rsa_public.pem -in message.txt -out encrypted_message.bin
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl pkeyutl -encrypt -pubin -inkey rsa_public.pem -in message.txt -out encrypted_message.bin
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl pkeyutl -encrypt -pubin -inkey rsa_public.pem -in message.txt -out encrypted_message.bin
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>dir encrypted_message.bin
+ Volume in drive C is OS
+ Volume Serial Number is 2C50-2CEE
+
+ Directory of C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise
+
+15/12/2024  19:35               256 encrypted_message.bin
+               1 File(s)            256 bytes
+               0 Dir(s)  50 726 350 848 bytes free
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl dgst -sha256 -sign rsa_private.pem -out signature.bin message.txt
+Enter pass phrase for rsa_private.pem:
+Could not find private key from rsa_private.pem
+0C5E0000:error:1608010C:STORE routines:ossl_store_handle_load_result:unsupported:crypto/store/store_result.c:151:
+Enter pass phrase for rsa_private.pem:
+Enter pass phrase for rsa_private.pem:
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl dgst -sha256 -verify rsa_public.pem -signature signature.bin message.txt
+Verified OK
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl ec -in ecc_private.pem -pubout -out ecc_public.pem                                                                   
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl dgst -sha256 -sign ecc_private.pem -out ecc_signature.bin message.txt
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl dgst -sha256 -verify ecc_public.pem -signature ecc_signature.bin message.txt
+Verified OK
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl dgst -sha256 -verify ecc_public.pem -signature ecc_signature.bin message.txt
+Verified OK
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl enc -aes-256-cbc -in message.txt -out encrypted_messa -pass pass:yourpassword
+*** WARNING : deprecated key derivation used.
+Using -iter or -pbkdf2 would be better.
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl enc -aes-256-cbc -in message.txt -out encrypted_message.bin -pass pass:yourpassword -pbkdf2
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>openssl enc -d -aes-256-cbc -in encrypted_message.bin -out decrypted_message.txt -pass pass:yourpassword -pbkdf2
+
+C:\Users\leono\Projetos\cryph\cryptography\OpenSSL_exercise>
+
+
+
